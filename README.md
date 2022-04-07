@@ -1,6 +1,8 @@
 # GrimArmyLoader
 --Quick Notice--
 
+OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+
 Place the .exe file (GrimArmyLoader.exe) in one of your prefered Grimoire directories. Then youre all set!
 
 --Features--
