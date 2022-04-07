@@ -8,8 +8,8 @@
 - /users - shows the list of all the registered users and paths you have saved
 - /run - opens the game client which has the user you choose automatically filled with information
 - /remove:
-	- /user - removes specified user from the database
-	- /suffix - removes a suffix saved in the database
+	- user - removes specified user from the database
+	- suffix - removes a suffix saved in the database
 - /login - choose to quickly login to the game without loading anything. This is still early, and will only help for quick daily rewards in-game, like the gear of doom.
 
 More information can be found in the program.
