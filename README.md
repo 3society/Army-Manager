@@ -1,4 +1,4 @@
-# ECM
+# ECM - Client Manager
 ### Features
 
 - /register - add character to database
