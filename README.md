@@ -1,4 +1,8 @@
 # ECM - Client Manager
+
+IMPORTANT NOTICE:
+- RBot.exe will not work unless the ECM.exe is placed inside the same directory.
+
 ### Features
 
 - /register - add character to database
@@ -15,3 +19,4 @@
 - /users - shows the list of all the registered users and paths you have saved
 
 More information can be found in the program.
+
