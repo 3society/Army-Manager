@@ -1,6 +1,6 @@
 # ECM - Client Manager
 
-### IMPORTANT NOTICE:
+### Important Notice
 - RBot.exe will not work unless the ECM.exe is placed inside the same directory.
 
 ### Features
